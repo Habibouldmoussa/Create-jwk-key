@@ -1,0 +1,17 @@
+{
+  "name": "create-keys-jwks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@habibouldmoussa/oidc-provider-knex-for-istos": "^1.0.0",
+    "jose": "^1.28.0"
+  }
+}
